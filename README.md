@@ -126,9 +126,7 @@ module.exports = {
 }
 ```
 7,  根目录下创建.commitlintrc.js 文件，写入如下内容：
-
-　```
- // .commitlintrc.js 文件
+```
 module.exports = {
     extends: ["@commitlint/config-conventional"],
     rules: {
@@ -144,7 +142,7 @@ module.exports = {
         'header-max-length': [0, 'always', 72]
       }
   };
- ```
+```
 Thanks to :
 
 1 https://juejin.cn/post/6844903661726875656

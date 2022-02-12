@@ -6,7 +6,7 @@ book
 #### 1， 没有.git 的执行 git init  生成。
 #### 2, 安装必要package，运行如下命令行：
 ```
-npm install -D prettier husky lint-staged eslint-config-prettier eslint-plugin-prettier @commitlint/config-conventional @commitlint/cli
+npm install -D prettier husky@4.3.8 lint-staged eslint-config-prettier eslint-plugin-prettier @commitlint/config-conventional @commitlint/cli
 ```
 ### 3, 在package.json 中加入如下代码：
 

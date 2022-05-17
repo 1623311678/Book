@@ -153,3 +153,5 @@ Thanks to :
 
 4 https://www.npmjs.com/package/@commitlint/config-conventional
 
+( 二) [国内安装Howbrew](https://zhuanlan.zhihu.com/p/111014448)
+

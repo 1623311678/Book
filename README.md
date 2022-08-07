@@ -155,3 +155,5 @@ Thanks to :
 
 ( 二) [国内安装Howbrew](https://zhuanlan.zhihu.com/p/111014448)
 
+文档汇总：[浏览器资源加载原理](https://juejin.cn/post/6844903545016156174)
+
